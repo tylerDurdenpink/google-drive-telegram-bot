@@ -8,6 +8,8 @@ class config:
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "768740081878-0a90tou63qdnr9633qc78l7vqge9b508.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "lBZ10kQoT73OruzkfJnxewIV"
+    SUPPORT_CHAT_LINK = "https://t.me/+RyM5nYgHjbxjY2Y1"
+    SUDO_USERS = "1513681384"
 
 
 class BotCommands:
